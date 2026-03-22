@@ -3560,6 +3560,10 @@ a.app-btn {
     display: inline-block;
     font-family: 'Poppins', sans-serif;
     padding-left: 30px;
+<<<<<<< HEAD
+=======
+    padding-=t: ;
+>>>>>>> bd538cc17d9a20b81e669e4522b551c608cb5c20
     box-shadow: 0px 6px 57px 0px rgba(17, 5, 35, 0.34);
     margin-bottom: 30px;
 }
@@ -4765,7 +4769,10 @@ a.btn-prev {
         height: 58px;
     }
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> bd538cc17d9a20b81e669e4522b551c608cb5c20
 /*=== Responsive code of industries we serve ===*/
 /* ==== RESPONSIVE FIX FOR INDUSTRIES SECTION ==== */
 .prev-freure-single {
@@ -4808,4 +4815,8 @@ a.btn-prev {
         margin-left: auto !important;
         margin-right: auto !important;
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> bd538cc17d9a20b81e669e4522b551c608cb5c20
